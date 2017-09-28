@@ -1,0 +1,2 @@
+# HSI-Sparsemap
+FORS acquisition
